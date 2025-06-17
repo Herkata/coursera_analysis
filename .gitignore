@@ -1,0 +1,4 @@
+.vscode/
+*.yaml
+__pycache__/
+notes.txt
